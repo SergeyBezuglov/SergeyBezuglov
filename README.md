@@ -28,8 +28,11 @@
   Разработка бэкенда и автоматизированное тестирование (интеграционные и юнит тесты),  года опыта.
 
 ## Проекты
-- [PDFview](https://github.com/SergeyBezuglov/pdfview)  
-  Личный проект по поиску PDF файлов.
+- [PDFview](https://github.com/SergeyBezuglov/pdfview)
+- Личный проект по поиску PDF файлов.
+- [CRM](https://github.com/SergeyBezuglov/CRM.git)
+- Проект нацеленный на Спа салоны
+  
 
 ## Контакты
 - **Email:** [tomat5285@gmail.com](mailto:tomat5285@gmail.com)
