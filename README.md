@@ -2,7 +2,14 @@
 
 ## Обо мне
 
-<img src="https://img.hhcdn.ru/photo/749316788.jpeg?t=1716620129&h=X0Ik6mDsYJMVcs3SOWt4uQ"/>
+
+.NET Developer с опытом разработки backend и desktop-приложений для enterprise и industrial систем.
+
+Специализируюсь на разработке приложений на C# и ASP.NET Core, построении многомодульной архитектуры, интеграции с оборудованием и реализации desktop-решений с использованием MVVM и Clean Architecture.
+
+Имею опыт разработки CRM-систем, Telegram-интеграций, сервисов автоматизации и приложений для работы с промышленным оборудованием через Modbus RTU/TCP, SerialPort и USB.
+
+Работал с PostgreSQL, SQL Server, REST API, Entity Framework Core, Dependency Injection и многопоточностью. Умею разбираться в legacy-коде, проектировать архитектуру и внедрять новые модули в существующие системы.
 
 ## Навыки
 - **Языки программирования:** C#, HTML, CSS
